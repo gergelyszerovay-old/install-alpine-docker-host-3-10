@@ -1,0 +1,3 @@
+/dev/sdb /mnt/docker ext4	rw,relatime 0 20
+/dev/sdc /mnt/docker-persistent-volumes ext4	rw,relatime 0 21
+virtualbox-shared-folder	/mnt/virtualbox-shared-folder	vboxsf	defaults	0 22
